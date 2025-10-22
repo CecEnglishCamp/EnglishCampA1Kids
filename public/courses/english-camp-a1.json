@@ -1,0 +1,18 @@
+{
+  "slug": "english-camp-a1",
+  "title": "English Camp A1",
+  "lessons": [
+    {
+      "id": "greetings",
+      "title": "Greetings & Hello!",
+      "yt": "eegWzglBMh0",
+      "desc": "Say hello, hi, good morning!"
+    },
+    {
+      "id": "alphabet",
+      "title": "ABCD Song",
+      "yt": "wjpcusBGVWI",
+      "desc": "Let's sing the alphabet together."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "id": "greetings",
+  "title": "Greetings",
+  "items": [
+    { "word": "hello",   "image": "/assets/hello.png",   "ko": "안녕하세요" },
+    { "word": "goodbye", "image": "/assets/goodbye.png", "ko": "안녕히 가세요" },
+    { "word": "please",  "image": "/assets/please.png",  "ko": "부탁해요" },
+    { "word": "welcome", "image": "/assets/welcome.png", "ko": "환영해요" }
+  ],
+  "pairs": [
+    { "img": "/assets/hello.png",   "word": "hello" },
+    { "img": "/assets/goodbye.png", "word": "goodbye" },
+    { "img": "/assets/please.png",  "word": "please" },
+    { "img": "/assets/welcome.png", "word": "welcome" }
+  ],
+  "rewardCoins": 10
+}

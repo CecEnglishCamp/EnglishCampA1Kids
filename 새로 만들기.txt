@@ -1,0 +1,20 @@
+
+
+PowerShell
+win +r
+
+
+실행
+
+PS E:\EnglishCampA1Kids>  npm run dev
+npm run dev
+
+
+
+
+ VITE v5.4.21  ready in 459 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+9:10:06 PM [vite] hmr update /src/components/YouTubeWithProgress.jsx

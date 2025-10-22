@@ -1,0 +1,16 @@
+/* src/index.css (대략 예시) */
+:root { color-scheme: dark; }
+body { margin:0; font-family: ui-sans-serif, system-ui, Arial; background:#0b1321; color:#e9f0ff;}
+.container { max-width: 1100px; margin: 48px auto; padding:0 20px; }
+h1 { font-size: clamp(28px, 3vw, 42px); margin: 0 0 12px; }
+p { opacity:.85; }
+
+.cards { display:grid; gap:18px; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); margin-top:22px;}
+.card { display:block; text-decoration:none; color:inherit; background:#101a2d; padding:22px; border-radius:16px; border:1px solid #1f2a44;}
+.card:hover { border-color:#2c69ff; box-shadow:0 10px 30px rgba(44,105,255,.15); }
+.pill { display:inline-block; font-size:12px; padding:4px 10px; border-radius:999px; background:#123; color:#9db4ff; }
+
+.buttons { display:flex; flex-wrap:wrap; gap:16px; margin-top:24px;}
+.btn { padding:16px 26px; border-radius:14px; border:1px solid #2b3d66; background:#1a2750; color:#dbe5ff; font-size:24px; cursor:pointer;}
+.btn:hover { border-color:#4d73ff; }
+.btn.primary { background:#15bd7e; border-color:#17cf8a; color:#03150d; }
